@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header .eco{
+    background: green;
+    font-size: 26px;
+}
+
+header h3{
+    padding-left: 17px;
+}
+
+.eco2{
+    cursor: pointer;
+    background: rgb(224, 221, 221);
+}
+
+.eco2 img{
+    padding-top: 15px;
+}
+
+.eco3{
+    background: url(../img/img1.jfif);
+}
